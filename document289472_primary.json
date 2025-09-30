@@ -1,0 +1,10 @@
+{
+  "documentId": "document289472_primary",
+  "author": "Jane Smith",
+  "title": "Project Phoenix: Q3 Report",
+  "content_summary": "This document summarizes the findings for the third quarter. Detailed sections on methodology and key results are appended below.",
+  "childDocumentChunks": [
+    "document289472_secondary1",
+    "document289472_secondary2"
+  ]
+}
