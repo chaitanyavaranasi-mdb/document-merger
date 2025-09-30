@@ -1,4 +1,3 @@
-```markdown
 # Document Merging Demo
 
 This project provides a simple Python script to demonstrate a "document merging" or "resolver" pattern. This pattern is useful when you need to break a large document into smaller, manageable chunks but present them to a consumer as a single, unified object.
@@ -64,5 +63,4 @@ Running the script will produce the following output, demonstrating the successf
     }
   ]
 }
-```
 ```
